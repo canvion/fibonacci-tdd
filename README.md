@@ -10,3 +10,4 @@ Ejecutar tests:
 ```bash
 mvn test
 
+# Prueba de CI/CD
